@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Medicines>
+<Medicine>
+<Versions>Versions{nameVersions='powder', manufacturer=[Manufacturer{nameManufacturer='Zdorovya', certificate=Certificate{number=22222, date=2013-12-12}, package=[Package{type='box', quantity=20, price=200.0}], dosage='Manufacturer'}, Manufacturer{nameManufacturer='ZZZ', certificate=Certificate{number=3333, date=2013-12-12}, package=[Package{type='box', quantity=30, price=300.0}], dosage='Manufacturer'}]}</Versions>
+</Medicine>
+<name>Nuroffen</name>
+<Pharm>NMN</Pharm>
+<Group>painkillers</Group>
+<Analogs>Paracetamol</Analogs>
+<Medicine>
+<Versions>Versions{nameVersions='powder', manufacturer=[Manufacturer{nameManufacturer='Zdorovya', certificate=Certificate{number=44444, date=2014-01-16}, package=[Package{type='box', quantity=20, price=250.0}], dosage='Manufacturer'}, Manufacturer{nameManufacturer='ZZZ', certificate=Certificate{number=3333, date=2001-01-18}, package=[Package{type='box', quantity=40, price=400.0}], dosage='Manufacturer'}]}</Versions>
+</Medicine>
+<name>LizaK</name>
+<Pharm>Medic</Pharm>
+<Group>painkillers</Group>
+<Analogs>Ingalipt</Analogs>
+</Medicines>
